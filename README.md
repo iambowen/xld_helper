@@ -1,7 +1,7 @@
 xld_helper
 ==========
 
-helper scripts install/use xld to convert lossless music 
+helper scripts install/use [xld](http://tmkk.undo.jp/xld/index_e.html) to convert lossless music 
 
 #install
 ```bash
